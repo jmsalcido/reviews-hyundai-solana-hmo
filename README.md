@@ -1,7 +1,7 @@
 # reviews-hyundai-solana-hmo
 Repositorio de Reviews para Hyundai Solana en Hermosillo
 
--- Review original
+## Review original
 
 Muy terrible experiencia con esta agencia y marca en general, no he tenido tantas visitas con cualquier otra marca (Suzuki aqui en Hermosillo, Chrysler en su tiempo en Los Mochis), ya no vuelvo a comprar un vehiculo Hyundai y me molesta por que confiaba en la marca para un siguiente vehiculo.
 
@@ -19,7 +19,8 @@ La vendedora con quien hice el trato en 2018 por un Elantra Limited Tech Navi 20
 
 Hice una actualización a mi review por petición de la agencia, la cual insisto: en algunas areas hace buen trabajo pero en general, con la marca Hyundai: yo ya no compro un vehiculo con ellos.
 
--- Update fui a darle servicio a la agencia despues de lo anterior
+--------
+## Update fui a darle servicio a la agencia despues de lo anterior
 
 El ultimo update es que fui a darle servicio a la agencia de 80 mil kilometros y tengo como 40 mil kilometros, osea, esta entero el maldito vehiculo....
 
@@ -36,9 +37,27 @@ Pesimo servicio en general de verdad, lo venderé ahi mismo en el siguiente serv
 
 Horrible, alejense de la agencia, los vehiculos en si estan chilos pero pues no lo valen por esta agencia, deberian cerrarla y abrir otra por que de plano le dan MUY mala reputación al menos yo ya no quiero un vehiculo Hyundai.
 
-—- actualizado en 6 de octubre 2022
+--------
+## actualizado en 6 de octubre 2022
 
 Vine a servicio y sigue siendo el pesimo servicio, ya me muero por poder cambiar de agencia.
 
--- 14 de Octubre 2022
+--------
+## 14 de Octubre 2022
 Volvi al servicio y pesima experiencia por parte del gerente, aparte tuve que estar marcando para recibir mi auto. Aun no lo recibo.
+
+--------
+## Update 27 de Octubre 2023
+
+- Fui a entregar mi vehiculo al parecer cambiaron la gerencia de servicio y fue mucho mejor.
+- Olvidaron ciertas cosas como los aditivos pero al pedirselos fueron responsables.
+- La persona que me atendió dijo algo en particular que hizo que me hiciera cambiar este review: "Se que no mi culpa, pero es mi responsabilidad que te lleves un buen servicio"
+
+Perfecto que hayan agregado el nuevo sistema de pagos en linea, asi no tengo que interactuar con las personas de caja que normalmente tambien tienen una mala actitud, pero ahora no tengo que preocuparme por eso.
+
+--------
+## Update 30 de Octubre 2025
+
+- Compré una Tucson Hibrida 2025 con ellos
+- Cambiaron todo el servicio
+- Di un 10/10 en mi servicio por que el agente me trato de la manera mas amable, hasta les regalé café en esta ultima visita yo a ellos.
